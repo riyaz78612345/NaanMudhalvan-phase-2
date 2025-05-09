@@ -35,12 +35,3 @@ With the explosion of content on streaming platforms, users struggle to find mov
 - Nabeel Ahmed – EDA
 - Vignesh – Documentation
 
-## License
-This project is licensed under the MIT License.
-
-## Dataset
-See [dataset.csv](dataset.csv)
-
-## Run the Code
-```bash
-python data_source.py
