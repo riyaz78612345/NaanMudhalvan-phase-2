@@ -1,0 +1,7 @@
+This is a demo project for an AI-Driven Movie Recommendation System.
+It includes the README, requirements, and a sample Python script for generating movie recommendations.
+
+Files included:
+- README.md: Project overview and documentation
+- requirements.txt: Required Python libraries
+- recommendation_system.py: Sample implementation
